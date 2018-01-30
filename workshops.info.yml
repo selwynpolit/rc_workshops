@@ -1,0 +1,5 @@
+name: Workshops
+type: module
+description: RC Workshop Formatter
+core: 8.x
+package: Selwyn

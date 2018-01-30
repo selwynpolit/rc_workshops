@@ -1,0 +1,11 @@
+workshops.workshop_form:
+  path: '/workshopform'
+  defaults:
+    _title: 'RC WorkshopForm'
+    _form: 'Drupal\workshops\Form\WorkshopForm'
+  requirements:
+    _access: 'TRUE'
+#    _permission: 'access content'
+#    _permission: 'access administration pages'
+#  options:
+#    _admin_route: TRUE
